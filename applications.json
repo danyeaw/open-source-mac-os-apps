@@ -3091,7 +3091,7 @@
             ]
         },
         {
-            "short_description": "macOS application for designing HTML5 SVG (Scalable Vector Graphics) art and animation with a WebKit web view. ",
+            "short_description": "macOS application for designing HTML5 SVG (Scalable Vector) art and animation with a WebKit web view. ",
             "categories": [
                 "graphics"
             ],
@@ -3151,6 +3151,20 @@
             "languages": [
                 "objective_c",
                 "css"
+            ]
+        },
+	{
+            "short_description": "Gaphor is the simple modeling tool for UML and SysML.",
+            "categories": [
+                "graphics"
+            ],
+            "repo_url": "https://github.com/gaphor/gaphor",
+            "title": "Gaphor",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://gaphor.org",
+            "languages": [
+                "python"
             ]
         },
         {
